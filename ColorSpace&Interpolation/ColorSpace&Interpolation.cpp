@@ -1,15 +1,8 @@
 /*
-COMPUTER VISION ASSIGNMENT 1
-NAME		: RAJ DIGHE
-LOGIN		: rpd328
-STUDENT ID	: 6147690
-
-
 GRAYSCALE CONVERSION:
 1.Where-erver possible I have used a flag COLOR_BGR2GRAY
 2.If I am using single channel image I have used saturate_cast<uchar>(<data>)
 to display the components in gray-scale images whose pixel values are within 0 to 255.
-
 */
 
 #include <iostream>
