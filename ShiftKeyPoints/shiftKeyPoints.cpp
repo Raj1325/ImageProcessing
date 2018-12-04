@@ -1,10 +1,3 @@
-/*
-	Computer vision assignment 2
-
-	login : rpd328		student id : 6147690
-	login : aj863		student id : 6214319
-
-*/
 
 
 /*
