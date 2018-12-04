@@ -1,8 +1,4 @@
 /*
-Computer vision assignment 3
-
-login : rpd328		student id : 6147690
-login : aj863		student id : 6214319
 
 Segmentation of frame is done using "Mean-shift Segmentation Method"
 An advanced and versatile technique for clustering based segmentation
